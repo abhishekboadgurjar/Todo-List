@@ -21,7 +21,6 @@ The **Temperature Converter** is a web-based application that allows users to ea
 - **CSS**: Styles the interface, ensuring a clean and responsive design.
 - **JavaScript**: Handles the conversion logic and updates the temperature values in real-time.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
